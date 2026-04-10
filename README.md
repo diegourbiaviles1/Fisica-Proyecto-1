@@ -3,8 +3,6 @@ CALCULADORA DE FUERZA ELECTRICA
 DESCRIPCION DEL PROYECTO
 Este programa es una herramienta interactiva diseñada para calcular y visualizar la fuerza eléctrica neta que actúa sobre una carga objetivo debido a múltiples cargas fuente en un plano bidimensional. El sistema aplica los principios fundamentales de la electrostática para ofrecer tanto resultados numéricos precisos como una representación gráfica vectorial en tiempo real.
 
-COMO LO HACE (LOGICA DEL SISTEMA)
-El programa opera bajo una arquitectura que separa la lógica matemática del diseño visual:
 
 Captura y Validación: Recibe los datos del usuario (magnitud de carga en microculombios y posición en metros), validando que las entradas sean numéricas antes de procesarlas.
 
