@@ -37,4 +37,4 @@ def calcular_fuerza_neta(cargas_fuente, posiciones_fuente, q_objetivo, pos_objet
 
     magnitud = math.sqrt(Fx_neta**2 + Fy_neta**2)
 
-    return Fx_neta, Fy_neta, magnitud, fuerzas_individuales
+    return Fx_neta, Fy_neta, magnitud, fuerzas_individuales 
